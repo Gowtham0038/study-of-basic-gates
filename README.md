@@ -73,8 +73,8 @@ assign y=~(a|b);
 assign z=~(a^b);
 endmodule
 Program for logic gates and verify its truth table in quartus using Verilog programming
- Developed by:
- RegisterNumber: 
+ Developed by:Gowtham C
+ RegisterNumber: 24002349
  ~~~
 **Logic symbol & Truthtable**
 ![388596341-ead0b94a-6e8a-404a-bfbc-65afeda9b307](https://github.com/user-attachments/assets/7ad1e75f-dd36-4f69-b3b8-078007b0b829)
